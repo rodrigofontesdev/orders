@@ -1,3 +1,5 @@
+![cover](https://github.com/rodrigofontesdev/orders/assets/17281370/adb25f6a-2e7b-4022-aa18-85b63dae876f)
+
 # Orders
 
 A food delivery app designed for small restaurants and food shops. The customer can choose from a menu, select what they want, and send the order to the restaurant via WhatsApp. The restaurant receives a notification with the complete order including the selected products, quantity, and total price.
